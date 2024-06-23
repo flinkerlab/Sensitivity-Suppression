@@ -1,6 +1,6 @@
 # Sensitivity-Suppression
 
-DAF data files consists of high gamma activity (70-150Hz) recorded with ecog during the production of words with 0, 50, 100, and 200 ms auditory feedback delay.
+DAF data files consist of high gamma activity (70-150Hz) recorded with ecog during the production of words with 0, 50, 100, and 200 ms auditory feedback delay.
 
 Data files are organized as trials x channels x time
 Time: -1.5:0.01:3.5 seconds, trials were epoched  with respect to the onset of speech production
