@@ -1,0 +1,10 @@
+satellite
+document
+furniture
+appointment
+computer
+professor
+museum
+violin
+umbrella
+envelope
