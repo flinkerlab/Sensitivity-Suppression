@@ -1,5 +1,7 @@
 # Sensitivity-Suppression
 
+The shared data and code is used in eLife2024;13:RP94198 DOI: https://doi.org/10.7554/eLife.94198.3
+
 DAF data files consist of high gamma activity (70-150Hz) recorded with ecog during the production of words with 0, 50, 100, and 200 ms auditory feedback delay.
 
 Data files are organized as trials x channels x time
